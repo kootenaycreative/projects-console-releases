@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Projects Console</title>
+    <description>Projects, drives and agents.</description>
+    <language>en</language>
+    <item>
+      <title>1.0.0</title>
+      <pubDate>Fri, 11 Sep 2026 17:09:09 -0700</pubDate>
+      <sparkle:version>159</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;A real updater and a version number, the Shotlister way&lt;/li&gt;
+&lt;li&gt;Turning one system off, and removing only what it made&lt;/li&gt;
+&lt;li&gt;The doc hub goes, the portal gets his name, RHOJONES is left out of it&lt;/li&gt;
+&lt;li&gt;The README describes the screen that is actually there&lt;/li&gt;
+&lt;li&gt;Say when the drive index has never heard of a folder&lt;/li&gt;
+&lt;li&gt;Renaming a project, in two names rather than one&lt;/li&gt;
+&lt;li&gt;Every system a project can use, on and off alike&lt;/li&gt;
+&lt;li&gt;A film says which project it belongs to, and the console can now read it&lt;/li&gt;
+&lt;li&gt;An agent asking for Reminders gets a dialog instead of a silent refusal&lt;/li&gt;
+&lt;li&gt;A second launch hands off to the copy that is already running&lt;/li&gt;
+&lt;li&gt;Stop asking the keychain for permission twice a minute&lt;/li&gt;
+&lt;li&gt;Make the banner look like a notification, and land somewhere real&lt;/li&gt;
+&lt;li&gt;The Mac says it out loud when an agent acts&lt;/li&gt;
+&lt;li&gt;Find a project whose folder is named nothing like it&lt;/li&gt;
+&lt;li&gt;Stop the login warning outliving the login&lt;/li&gt;
+&lt;li&gt;Keep serving the phone whether or not the window is open&lt;/li&gt;
+&lt;li&gt;Say each thing once&lt;/li&gt;
+&lt;li&gt;Cards in the bell popover say why, not just what&lt;/li&gt;
+&lt;li&gt;Stop agents updating the Claude CLI, and record the next logout properly&lt;/li&gt;
+&lt;li&gt;Saying no sticks&lt;/li&gt;
+&lt;li&gt;Cards say what they did, and where to look&lt;/li&gt;
+&lt;li&gt;A scheduled sweep that found nothing leaves no record&lt;/li&gt;
+&lt;li&gt;Surface an expired Claude login from hand-built agents too&lt;/li&gt;
+&lt;li&gt;Native agents: never file the same held card twice&lt;/li&gt;
+&lt;li&gt;Name the update artifact download&lt;/li&gt;
+&lt;li&gt;Fix the one-click updater destroying the app it installs&lt;/li&gt;
+&lt;li&gt;Add hand-built agents: a second species the app hosts but doesn't configure&lt;/li&gt;
+&lt;li&gt;Agent reliability pass: guards, preflight checks, and Claude-login detection&lt;/li&gt;
+&lt;li&gt;Sign the app with a stable identity so macOS stops re-asking for drive access&lt;/li&gt;
+&lt;li&gt;Agent runs stop faking completion and re-scanning stale backlog&lt;/li&gt;
+&lt;li&gt;Retire the dev/bureau build split — one app, one state dir&lt;/li&gt;
+&lt;li&gt;Fix capability-gap asks naming Gmail when they mean Spark&lt;/li&gt;
+&lt;li&gt;Fix Rebuild.app: re-exec natively, this Mac launches Finder apps under Rosetta&lt;/li&gt;
+&lt;li&gt;Fix Cmd+Q: every tap was quitting, hold detection never worked&lt;/li&gt;
+&lt;li&gt;Add a quit-request trigger file for headless verification&lt;/li&gt;
+&lt;li&gt;Fix Quit: menu bar Quit didn't work, add Cmd+Q tap-vs-hold&lt;/li&gt;
+&lt;li&gt;Fix satellite connection: wrong port + a masked error&lt;/li&gt;
+&lt;li&gt;Merge branch 'r111-transport-split'&lt;/li&gt;
+&lt;li&gt;Fix New Project's crew-linking: engine.fetch_crew/attach_crew_to_project didn't exist&lt;/li&gt;
+&lt;li&gt;R111-R113: Studio/satellite transport split, drive-indexing split, one-click updater&lt;/li&gt;
+&lt;li&gt;Agents remember their own recent decisions in the planning prompt&lt;/li&gt;
+&lt;li&gt;Fix dangling state-dir symlink, add menubar agents submenu, update rituals for new Drive layout&lt;/li&gt;
+&lt;li&gt;Agent list: animate the icon-mode collapse/expand instead of an instant jump&lt;/li&gt;
+&lt;li&gt;Agent list: dragging the divider to its floor snaps into icon-only collapse&lt;/li&gt;
+&lt;li&gt;Agents tab: real drag-resize for left agent panel, move collapse into list box&lt;/li&gt;
+&lt;li&gt;Fix held cards collapsing to blank slivers inline in chat, bubble composer sizing, move collapse toggle&lt;/li&gt;
+&lt;li&gt;Agents tab: shift+enter composer, stop chat mid-thinking, fix left-panel blanking, manual collapse&lt;/li&gt;
+&lt;li&gt;Agent Inbox bubble: fix agent-picker positioning, shrink thread title, add hover polish&lt;/li&gt;
+&lt;li&gt;Agents tab: responsive left panel, button schema match, settings width fix&lt;/li&gt;
+&lt;li&gt;Home page redesign, Agent Inbox bubble, instant chat threads, design cleanup&lt;/li&gt;
+&lt;li&gt;Land the rest of the Custom Agents platform: native tool access, real event detection, contacts read/write, and a premium chat UI&lt;/li&gt;
+&lt;li&gt;Fix: agent guessed the wrong string for a Mail.app account name, every time&lt;/li&gt;
+&lt;li&gt;Trigger source picker expands mail-automation connections into real accounts&lt;/li&gt;
+&lt;li&gt;Event trigger's source field is a real dropdown of granted connections&lt;/li&gt;
+&lt;li&gt;Capability synthesis can now invent a whole new connection, not just a tool&lt;/li&gt;
+&lt;li&gt;Native-read MCP bridge: agents can genuinely call Contacts/Files during planning&lt;/li&gt;
+&lt;li&gt;Fix settings-rail scroll: a class-name collision with the host's own CSS&lt;/li&gt;
+&lt;li&gt;Capability-gap synthesis: agents can build what they're missing, not just refuse&lt;/li&gt;
+&lt;li&gt;QC + QOL hardening pass on the Agents platform&lt;/li&gt;
+&lt;li&gt;Build the Agents platform (studio) — fresh Notion-custom-agents clone&lt;/li&gt;
+&lt;li&gt;Gut the agent system to the studs (fresh-start baseline)&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.0.0/Projects-Console-1.0.0.zip" length="39610624" type="application/octet-stream" sparkle:edSignature="edjmWMGbV+Q2woED6WNF7giw5rdQND1vsU6pFd+h6/7zeUZeRiNJE/Zyae6aXiEtRVhT7OPLIS3iak0STX+fCg==" />
+    </item>
+  </channel>
+</rss>
