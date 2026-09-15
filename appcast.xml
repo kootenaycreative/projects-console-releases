@@ -5,6 +5,16 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.2.1</title>
+      <pubDate>Tue, 15 Sep 2026 16:53:11 -0700</pubDate>
+      <sparkle:version>177</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Projects Console 1.2.1&lt;/li&gt;
+&lt;li&gt;Settings learns the updater is there after it starts, not before&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.2.1/Projects-Console-1.2.1.zip" length="39683747" type="application/octet-stream" sparkle:edSignature="h+mIL8xybVlkVISSQaKQ23Qk5YVEAyvWJxvW0CLmfro3giQDQMHPg5g8/SrLaIiKsooiV+SqIiBwq6t2H4UgCg==" />
+    </item>
+    <item>
       <title>1.2.0</title>
       <pubDate>Tue, 15 Sep 2026 16:17:15 -0700</pubDate>
       <sparkle:version>175</sparkle:version>
