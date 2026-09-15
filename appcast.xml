@@ -5,6 +5,16 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.1.1</title>
+      <pubDate>Tue, 15 Sep 2026 15:38:41 -0700</pubDate>
+      <sparkle:version>173</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Projects Console 1.1.1&lt;/li&gt;
+&lt;li&gt;Check for Updates on the Studio too, the stage written back to Notion, and a drive on the shelf stays listed&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.1.1/Projects-Console-1.1.1.zip" length="39689296" type="application/octet-stream" sparkle:edSignature="ulXHy6F+jZnPS+5r5t4kgYRjcZpzpdyDXOCPipqBJSexSYdGoq8gIT61SwpkY1FO56rlUX+Lek8GngLJtaq1Dg==" />
+    </item>
+    <item>
       <title>1.1.0</title>
       <pubDate>Tue, 15 Sep 2026 15:15:36 -0700</pubDate>
       <sparkle:version>171</sparkle:version>
