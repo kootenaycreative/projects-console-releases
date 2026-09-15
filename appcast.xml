@@ -5,6 +5,26 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.1.0</title>
+      <pubDate>Tue, 15 Sep 2026 15:15:36 -0700</pubDate>
+      <sparkle:version>171</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Projects Console 1.1.0&lt;/li&gt;
+&lt;li&gt;One record per project on Cloudflare, the pending queue, and the icon into the film&lt;/li&gt;
+&lt;li&gt;The console knocks on Shotlister's doors, and films live in Documents&lt;/li&gt;
+&lt;li&gt;The switchboard's verbs that were only drawn now work&lt;/li&gt;
+&lt;li&gt;Nothing flashes when it repaints&lt;/li&gt;
+&lt;li&gt;The list folds to its icons, at any window width&lt;/li&gt;
+&lt;li&gt;A long name gives way before the lights and the chip do&lt;/li&gt;
+&lt;li&gt;The lights line up whatever the stage chip says&lt;/li&gt;
+&lt;li&gt;Quieter: one verb a row, no sentences, the Notion row folded into PROJECT&lt;/li&gt;
+&lt;li&gt;The switchboard: light · name · readout · verb&lt;/li&gt;
+&lt;li&gt;WIP: dossier, health and names — parked before mockups&lt;/li&gt;
+&lt;li&gt;A lab build beside the real app, and the last of the doc hub and crew&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.1.0/Projects-Console-1.1.0.zip" length="39683199" type="application/octet-stream" sparkle:edSignature="zdpZ9orGpiKkM+Ri64Ecj9LOs2+xUw8QWgmGGtgfuz3j1cWeqGsagcdlhPU1TKkdZKFG76J+YDO3BkN6M2MmAg==" />
+    </item>
+    <item>
       <title>1.0.0</title>
       <pubDate>Fri, 11 Sep 2026 17:09:09 -0700</pubDate>
       <sparkle:version>159</sparkle:version>
