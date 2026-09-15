@@ -5,6 +5,16 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.2.0</title>
+      <pubDate>Tue, 15 Sep 2026 16:17:15 -0700</pubDate>
+      <sparkle:version>175</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Projects Console 1.2.0&lt;/li&gt;
+&lt;li&gt;The agents keep a ledger and the bell keeps the record; nobody chats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.2.0/Projects-Console-1.2.0.zip" length="39683741" type="application/octet-stream" sparkle:edSignature="F4WJ9noWJSHuk76YO68oyRpUOcE9Esb3PGp7nQflEtO+Dvurrxjm6XF0CLS9htw/qA/V0iqgMwdE6kZP97H3Bg==" />
+    </item>
+    <item>
       <title>1.1.1</title>
       <pubDate>Tue, 15 Sep 2026 15:38:41 -0700</pubDate>
       <sparkle:version>173</sparkle:version>
