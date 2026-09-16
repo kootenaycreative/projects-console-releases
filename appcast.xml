@@ -5,6 +5,16 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.2.2</title>
+      <pubDate>Tue, 15 Sep 2026 21:04:13 -0700</pubDate>
+      <sparkle:version>179</sparkle:version>
+      <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Projects Console 1.2.2&lt;/li&gt;
+&lt;li&gt;Check for Updates… in the application menu, next to the Apple logo&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.2.2/Projects-Console-1.2.2.zip" length="39683888" type="application/octet-stream" sparkle:edSignature="9bSP5TLv/1LaReMbV8m2oN+D+LtQSCFIrxO4Y1TR0rKmIaEqqLxzLQFlgy7eOA4aW7WHzQAaklsP7femXjA1Dg==" />
+    </item>
+    <item>
       <title>1.2.1</title>
       <pubDate>Tue, 15 Sep 2026 16:53:11 -0700</pubDate>
       <sparkle:version>177</sparkle:version>
