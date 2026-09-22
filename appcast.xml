@@ -5,6 +5,18 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.3.1</title>
+      <pubDate>Tue, 22 Sep 2026 15:37:13 -0700</pubDate>
+      <sparkle:version>186</sparkle:version>
+      <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Projects Console 1.3.1&lt;/li&gt;
+&lt;li&gt;Moving to Post never waits on a selects folder&lt;/li&gt;
+&lt;li&gt;Every link a project has, in one row — copy or open, private and public portal alike&lt;/li&gt;
+&lt;li&gt;The record is published again once a new film's first sync gives it an id&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.3.1/Projects-Console-1.3.1.zip" length="39628522" type="application/octet-stream" sparkle:edSignature="nXlox8vq2dNrotERUPgjdajvij/KsdXf6YVVFZOVJ7zBZzH5be39RfIug8f85s6bbi63tKf/1r3FBK2OzCmnBA==" />
+    </item>
+    <item>
       <title>1.3.0</title>
       <pubDate>Fri, 18 Sep 2026 11:08:20 -0700</pubDate>
       <sparkle:version>182</sparkle:version>
