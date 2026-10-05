@@ -5,6 +5,46 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.4.0</title>
+      <pubDate>Mon, 05 Oct 2026 10:47:00 -0700</pubDate>
+      <sparkle:version>220</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;People: lead roles first within a department, as a call sheet lists them&lt;/li&gt;
+&lt;li&gt;New layout, part 4: Archive as one table, every old link a Copy away on its system's row, narrow windows, the switchboard's unused helpers gone&lt;/li&gt;
+&lt;li&gt;New layout, part 3: ⌘K with the project and what you can do on it, the offline list's words, Share / What Viewers See / Library inside the Portal tab&lt;/li&gt;
+&lt;li&gt;New layout, part 2: New project with the record first, Drives, and a quiet Agents page&lt;/li&gt;
+&lt;li&gt;New layout, part 1: the project page — sidebar by stage, the mode bar, Overview, Shoots, People, Documents, Portal&lt;/li&gt;
+&lt;li&gt;Browser rehearsal for a Notion-versus-record conflict in the sync sheet&lt;/li&gt;
+&lt;li&gt;The Notion link runs: logline, synopsis and crew kept in step with Notion&lt;/li&gt;
+&lt;li&gt;Merge branch 'main' into one-record&lt;/li&gt;
+&lt;li&gt;The bell never vanishes when the agents list has not loaded&lt;/li&gt;
+&lt;li&gt;test: offline order with two fields (same-field edits now coalesce)&lt;/li&gt;
+&lt;li&gt;Outbox: a second offline edit to a waiting field replaces the first&lt;/li&gt;
+&lt;li&gt;The Record: a project's facts edited in the console, with an offline pill&lt;/li&gt;
+&lt;li&gt;Merge branch 'main' into one-record&lt;/li&gt;
+&lt;li&gt;Console UI for the portal's owner controls: Share, What Viewers See, Library, Archive's portal choice, the Films shelf&lt;/li&gt;
+&lt;li&gt;Tests run against a throwaway state folder, never the real one&lt;/li&gt;
+&lt;li&gt;Merge branch 'notion-link' into one-record&lt;/li&gt;
+&lt;li&gt;Merge branch 'console-share' into one-record&lt;/li&gt;
+&lt;li&gt;Merge branch 'restyle-studio' into one-record&lt;/li&gt;
+&lt;li&gt;Merge branch 'archive-once' into one-record&lt;/li&gt;
+&lt;li&gt;record_import.py: fill each record once from Notion and the film, his answers settling disputes&lt;/li&gt;
+&lt;li&gt;Console wrappers for the portal's owner controls: Share, What Viewers See, Library&lt;/li&gt;
+&lt;li&gt;Restyle pass 2: Agents onto Studio's palette, sans/mono split and Title Case labels everywhere&lt;/li&gt;
+&lt;li&gt;Project rows carry the record's kept facts over Notion's (phase 5, record-facts)&lt;/li&gt;
+&lt;li&gt;Archive done once: the portal and the film in the same sheet (branch archive-once)&lt;/li&gt;
+&lt;li&gt;Facts offline: kept on this Mac when read, edits wait in an outbox and go up in order&lt;/li&gt;
+&lt;li&gt;notionlink.py: read-only groundwork for the Notion link (logline, synopsis, crew)&lt;/li&gt;
+&lt;li&gt;Restyle pass 1: Shotlister Studio's type and greys (branch restyle-studio)&lt;/li&gt;
+&lt;li&gt;record.facts / set_facts / history: the console's side of per-field versions&lt;/li&gt;
+&lt;li&gt;disagree.py: every project's facts from Notion, the film and the portal, and where they disagree&lt;/li&gt;
+&lt;li&gt;The lab never publishes a project record unless PC_LAB_PUBLISH=1&lt;/li&gt;
+&lt;li&gt;The console runs the daily backup of films and portal&lt;/li&gt;
+&lt;li&gt;New Shoot sets up a project's next shoot in one press, and Shoot Wrap wraps one shoot (R116)&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.4.0/Projects-Console-1.4.0.zip" length="39830410" type="application/octet-stream" sparkle:edSignature="Evv8wzHH5wzr/PXH3n2ImKGJsFlI6XDsnkSKAsv2OPCCwCLNvThmLATqYQGr2l9GhQ+iiPVuMaKoAL+6TmFbAA==" />
+    </item>
+    <item>
       <title>1.3.2</title>
       <pubDate>Tue, 22 Sep 2026 16:08:48 -0700</pubDate>
       <sparkle:version>188</sparkle:version>
