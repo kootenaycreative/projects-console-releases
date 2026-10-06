@@ -5,6 +5,57 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.5.0</title>
+      <pubDate>Mon, 05 Oct 2026 21:28:26 -0700</pubDate>
+      <sparkle:version>263</sparkle:version>
+      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Frame rate per camera; Enter in an edit box only saves&lt;/li&gt;
+&lt;li&gt;Cameras: a label inside a camera's name finds it; LUT labels by address too&lt;/li&gt;
+&lt;li&gt;Several cameras, several LUTs: one entry per line, one editor&lt;/li&gt;
+&lt;li&gt;Merge branch 'shoot-names-lenses'&lt;/li&gt;
+&lt;li&gt;Merge branch 'people-unified'&lt;/li&gt;
+&lt;li&gt;People tab: one list, credits from the row, click-to-copy, New Person and New Company sheets&lt;/li&gt;
+&lt;li&gt;Shoot names and lens sets&lt;/li&gt;
+&lt;li&gt;Every credit is its own link to Crew on the Projects row; one list of people&lt;/li&gt;
+&lt;li&gt;Filing Rules covers the media-drive tree too&lt;/li&gt;
+&lt;li&gt;Settings → Templates: the Drive and media folder trees, the Notion page, the filing rules&lt;/li&gt;
+&lt;li&gt;New Project applies the Projects database's default Notion template&lt;/li&gt;
+&lt;li&gt;Director's Note and Visual Language: synced Notion boxes like the logline&lt;/li&gt;
+&lt;li&gt;Suggestions only for an empty place: no "Suggested: projects/&amp;lt;slug&amp;gt;" on a Drive row that already shows its folder&lt;/li&gt;
+&lt;li&gt;Merge branch 'credits'&lt;/li&gt;
+&lt;li&gt;Merge branch 'icon-picker'&lt;/li&gt;
+&lt;li&gt;Merge branch 'shoot-dates'&lt;/li&gt;
+&lt;li&gt;Merge branch 'sidebar-sort'&lt;/li&gt;
+&lt;li&gt;The projects cache carries every credit and what the project hides, for Studio's Project card&lt;/li&gt;
+&lt;li&gt;The record column: credits with one or more people each, Add Credit…, Customize Record…, Settings → Record&lt;/li&gt;
+&lt;li&gt;Icon picker: set a project's icon and colour in the console, two-way with Notion&lt;/li&gt;
+&lt;li&gt;Shoot dates: ranges everywhere, a project's own dates are its first shoot, Principal / Shoot wording&lt;/li&gt;
+&lt;li&gt;Credits and the record's layout: more than one person per credit, more credits, a standard record per Type with per-project choices&lt;/li&gt;
+&lt;li&gt;Sidebar: sort menu and foldable stage groups&lt;/li&gt;
+&lt;li&gt;Status circles: clean 1px rings, no inset bezel&lt;/li&gt;
+&lt;li&gt;release/VERSION back to 1.4.0: the 1.5.0 release did not go out (notary check failed)&lt;/li&gt;
+&lt;li&gt;Release 1.5.0: record owns the rest, linked items, Story switch, portal preview, offline, archive the film&lt;/li&gt;
+&lt;li&gt;No coloured side stripes (his rule); custom links and suggestions wait for a connection&lt;/li&gt;
+&lt;li&gt;Merge branch 'archive-film'&lt;/li&gt;
+&lt;li&gt;Merge branch 'preview-offline'&lt;/li&gt;
+&lt;li&gt;Portal preview window (You / Crew) and the offline screen — one-record items 6 and 8&lt;/li&gt;
+&lt;li&gt;Archive done once, the film too: Archive asks Shotlister to archive the project's film instead of reminding him&lt;/li&gt;
+&lt;li&gt;Record owns the rest: colour, shoot dates, website, Drive folder, icon and the shoots; linked items with marks, suggestions and custom links; Story on/off per project&lt;/li&gt;
+&lt;li&gt;Merge branch 'film-reads-record'&lt;/li&gt;
+&lt;li&gt;Icons that can't be misread: Settings is a gear (was a sun), Shotlister is a clapperboard (was a calendar)&lt;/li&gt;
+&lt;li&gt;Sidebar: each project's own Notion icon instead of a dot — grey, in its film colour where it is open; first letter when it has none&lt;/li&gt;
+&lt;li&gt;Design pass, part 4: settings words, the sync popover when nothing waits, New Shoot and New Project words&lt;/li&gt;
+&lt;li&gt;Design pass, part 3: copy pass on sheets, menus, toasts, bell, settings and the back end's errors; the words rules beside the colour and type rules&lt;/li&gt;
+&lt;li&gt;Design pass, part 2: the record's pickers and the shoot edits (facts-two-way), Agency label, ⌘K and Drives copy&lt;/li&gt;
+&lt;li&gt;Merge branch 'facts-two-way' into design-pass&lt;/li&gt;
+&lt;li&gt;Design pass, part 1: house tokens with dark mode, one button and chip system, calmer colour and type, copy pass on the main screens, Not Needed on the Next box&lt;/li&gt;
+&lt;li&gt;Every project fact two-way with Notion: client, agency, status, type, length, director, producer (title Notion→record only); shoot dates, notes and spec sheets editable from the console&lt;/li&gt;
+&lt;li&gt;Release 1.4.0: the new layout, the Notion link, the record&lt;/li&gt;
+&lt;li&gt;Film facts: the project record's name and people, into each linked Shotlister film&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.5.0/Projects-Console-1.5.0.zip" length="40081073" type="application/octet-stream" sparkle:edSignature="5qXEsKMMnb6XEwD5GPGt4wxUFrayvj5gbjDytSt+Z0ITwAEXYFwJFNjmDcAr4iUdU/YAasYh9daP4lvY98ssCA==" />
+    </item>
+    <item>
       <title>1.4.0</title>
       <pubDate>Mon, 05 Oct 2026 10:47:00 -0700</pubDate>
       <sparkle:version>220</sparkle:version>
