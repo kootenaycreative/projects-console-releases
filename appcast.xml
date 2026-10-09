@@ -5,6 +5,26 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.5.1</title>
+      <pubDate>Fri, 09 Oct 2026 13:58:53 -0700</pubDate>
+      <sparkle:version>275</sparkle:version>
+      <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Icon: Shotlister's colours and glass, made in Icon Composer&lt;/li&gt;
+&lt;li&gt;Open in Shotlister opens the film itself through its shotlister:// link, the folder only if Studio is missing&lt;/li&gt;
+&lt;li&gt;Agent questions carry their answers: buttons on the desk and Agents page, Approve refused without one&lt;/li&gt;
+&lt;li&gt;New Project asks for what the record holds: icon, every credit its Type shows, client, agency, logline&lt;/li&gt;
+&lt;li&gt;New Shoot gives each shoot its own 1-creative/shoot-N too&lt;/li&gt;
+&lt;li&gt;Shoots filter the project page instead of having their own tab&lt;/li&gt;
+&lt;li&gt;Story section in each project page: only the story boxes with words, kept two-way with the boxes&lt;/li&gt;
+&lt;li&gt;Phone mailbox: check every 3s while the phone is in use, every 10s otherwise&lt;/li&gt;
+&lt;li&gt;PHONE.md: the phone reaches this Mac through the hub's mailbox, not Tailscale&lt;/li&gt;
+&lt;li&gt;Phone mailbox: Index Now on a drive (adds to Drive Contents, never deletes)&lt;/li&gt;
+&lt;li&gt;The phone's mailbox: agents, drives, doors and asks through the hub, no Tailscale&lt;/li&gt;
+&lt;li&gt;Release 1.5.0&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.5.1/Projects-Console-1.5.1.zip" length="41621646" type="application/octet-stream" sparkle:edSignature="dJWz8RhgW3vBkwsJuo8jH3El9TNZUn/kZNI+3EgyEtSCuMkhP65WWiXomi2fJi+bluL7FAIgtxnPzXmqtuFYCg==" />
+    </item>
+    <item>
       <title>1.5.0</title>
       <pubDate>Mon, 05 Oct 2026 21:28:26 -0700</pubDate>
       <sparkle:version>263</sparkle:version>
