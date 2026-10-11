@@ -5,6 +5,27 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.6.0</title>
+      <pubDate>Sun, 11 Oct 2026 09:04:16 -0700</pubDate>
+      <sparkle:version>288</sparkle:version>
+      <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Merge portal-tab-rebuild: Portal tab in four parts (Overview, Access, Pages, Sidebar)&lt;/li&gt;
+&lt;li&gt;Phone may ask for portal_password and portal_replace_link (Password and New Link on the iPhone Console)&lt;/li&gt;
+&lt;li&gt;Portal tab: four panels (Overview, Access, Pages, Sidebar), each control in one place&lt;/li&gt;
+&lt;li&gt;With the hub keeping Notion in step: the sync sheet shows and settles the hub's conflicts, the desk still hears of new ones, record standards are sent to the hub on every save&lt;/li&gt;
+&lt;li&gt;Notion link stands down when the hub owns it (studio/owner), the one switch for moving it to the hub&lt;/li&gt;
+&lt;li&gt;Portal › Library: categories his to name — Rename, Add, Move Up/Down, Remove, and Move To on every row&lt;/li&gt;
+&lt;li&gt;Merge branch 'portal-edit'&lt;/li&gt;
+&lt;li&gt;Work left unsaved in main since 2026-10-09: a Client or Agency typed in the record becomes a Crew company; call sheets no longer guessed into a slot&lt;/li&gt;
+&lt;li&gt;Portal › Library: Add Page and Rename on every page, beside the Sidebar's&lt;/li&gt;
+&lt;li&gt;Project page: one heading style, Record boxed, side column never squeezed&lt;/li&gt;
+&lt;li&gt;Portal tab: Sidebar panel; rename a pasted link&lt;/li&gt;
+&lt;li&gt;Release 1.5.1: the new icon, in Shotlister's colours&lt;/li&gt;
+&lt;li&gt;Release applet wears the new icon&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.6.0/Projects-Console-1.6.0.zip" length="41645118" type="application/octet-stream" sparkle:edSignature="hVO/t0ZJv9a2clO5ncMbk4UKobysfJLUeDrfkKt1R5nKvIgt4+vOK54fFjH3WuZBKsc0FCNvnPlDP3EQpyt5Cg==" />
+    </item>
+    <item>
       <title>1.5.1</title>
       <pubDate>Fri, 09 Oct 2026 13:58:53 -0700</pubDate>
       <sparkle:version>275</sparkle:version>
