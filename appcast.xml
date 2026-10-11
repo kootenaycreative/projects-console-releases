@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.6.1</title>
+      <pubDate>Sun, 11 Oct 2026 11:20:07 -0700</pubDate>
+      <sparkle:version>289</sparkle:version>
+      <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Release 1.6.0&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.6.1/Projects-Console-1.6.1.zip" length="41650275" type="application/octet-stream" sparkle:edSignature="Nc+VcGUaKrtJrdhUnnkAziB5asV/+A/69ocQz3uwnekxxmojvmjkvzjxpmlXxybb0VaF6AFeNYyznWsL8DqxBg==" />
+    </item>
+    <item>
       <title>1.6.0</title>
       <pubDate>Sun, 11 Oct 2026 09:04:16 -0700</pubDate>
       <sparkle:version>288</sparkle:version>
