@@ -5,6 +5,17 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.7.1</title>
+      <pubDate>Wed, 14 Oct 2026 22:55:20 -0700</pubDate>
+      <sparkle:version>320</sparkle:version>
+      <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Sign-in never waits on a Keychain prompt (1.7.1): keys read once per launch with a timeout; written under the console's own Keychain name or, failing that, a private 600 file; sheet says plainly when it fails&lt;/li&gt;
+&lt;li&gt;Merge branch 'main' into stage5-studio-a&lt;/li&gt;
+&lt;li&gt;Studio opens the console through the server (stage 5 step 4A): studioopen.py takes this Mac's request just after the app comes to the front; a project film's Archive/Delete from Studio open the console's own, with their previews&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.7.1/Projects-Console-1.7.1.zip" length="41797673" type="application/octet-stream" sparkle:edSignature="iQqU4DE7vQN3HRgN2Iabhi4qeZjZTBqqRJUPcDOqI8/kGvf65i3jGECPABnGEOUyCFDRUW/rTTJXv3nzJIHvCg==" />
+    </item>
+    <item>
       <title>1.7.0</title>
       <pubDate>Wed, 14 Oct 2026 22:18:17 -0700</pubDate>
       <sparkle:version>317</sparkle:version>
