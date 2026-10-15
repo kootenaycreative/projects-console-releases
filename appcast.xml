@@ -5,6 +5,24 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.9.0</title>
+      <pubDate>Thu, 15 Oct 2026 12:31:37 -0700</pubDate>
+      <sparkle:version>370</sparkle:version>
+      <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Release 1.9.0&lt;/li&gt;
+&lt;li&gt;Typing survives redraws: the focused field keeps its text, focus and caret; spec sheet saves go one at a time&lt;/li&gt;
+&lt;li&gt;Spec sheet: remove the per-camera Frame Guides and Finishing Resolution rows from the record shape and the editor&lt;/li&gt;
+&lt;li&gt;Spec sheet check: Close Focus in the library form; filters before modifiers&lt;/li&gt;
+&lt;li&gt;Spec sheet: Aspect Ratio (no resolution), Finishing Resolutions, three groups; lens close focus&lt;/li&gt;
+&lt;li&gt;README: rituals now Wrap parks Post, Prepare Showcase separate, Archive keeps everything, media drives create-only&lt;/li&gt;
+&lt;li&gt;Big-move looks wait up to 75 s: the server weighs a full project's Drive folder (20-40 s), and the 15 s read wait said "Can't reach the server"&lt;/li&gt;
+&lt;li&gt;Merge branch 'main' into bigmoves-notrash&lt;/li&gt;
+&lt;li&gt;Release 1.8.0&lt;/li&gt;
+&lt;li&gt;Big moves never trash: Turn Off moves the showcase into zz-archived/&amp;lt;year&amp;gt;/, and a check that no move but Delete trashes anything&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.9.0/Projects-Console-1.9.0.zip" length="41872489" type="application/octet-stream" sparkle:edSignature="xT6ejTGheZto+QiqPikZLMBIHxl+cWcB/gdPe3htKQ1uYSBM1mkJecA5WlXIpiN5VxU/dDzPJIGLY2UVCvfuDA==" />
+    </item>
+    <item>
       <title>1.8.0</title>
       <pubDate>Thu, 15 Oct 2026 08:46:05 -0700</pubDate>
       <sparkle:version>360</sparkle:version>
