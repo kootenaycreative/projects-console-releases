@@ -5,6 +5,42 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.7.0</title>
+      <pubDate>Wed, 14 Oct 2026 22:18:17 -0700</pubDate>
+      <sparkle:version>317</sparkle:version>
+      <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Stage 5 step 8: the laptop becomes an equal. Both Macs run the same console against the server; This Mac Runs Agents (hardware identity, on only on the Studio) gates the agents and standing duties; another Mac does its own drive jobs and asks the Studio for its Agents tab; first-run Sign In code; tailnet no longer served by non-Studio Macs; 1.7.0&lt;/li&gt;
+&lt;li&gt;Router fix after the second rollback: the server's capability list is saved and, on a Mac that never read it, a built-in one stands in; an edit that needs the network made offline always waits (server's or this Mac's), never raises; offline-test can run against a local hub with its own name&lt;/li&gt;
+&lt;li&gt;Router fix after the rollback: a project only this Mac can see (The Ending, which the server's Notion key can't read) is laid into the list and the films shelf, never dropped; record defaults for a project with no kept record, as the server; bothways --live compares with the deployed hub and checks the list's set equals this Mac's&lt;/li&gt;
+&lt;li&gt;Router: what the both-ways proof found different stays on this Mac (project page and New Shoot form read the record's spec sheet; film backups; New Project's drives; crew directory); a project the server has no row for is answered here&lt;/li&gt;
+&lt;li&gt;Router: a read this Mac answered is saved for offline too (the real offline test found New Shoot had no saved form); bothways.py (every read both ways) and offline-test.py (the real offline test)&lt;/li&gt;
+&lt;li&gt;Router (stage 5 step 3): the server does what it answers, this Mac the rest; the one list from the server with drives on top; offline saved copy, waiting list and New Project/New Shoot split; folder template master on the server, Project Creator's file no longer written&lt;/li&gt;
+&lt;li&gt;One ID: a device's own minted ID goes with New Project (Studio sends one)&lt;/li&gt;
+&lt;li&gt;One ID (stage 5 step 2): New Project mints the record's ID on the server; New Film is the server's Studio side, both while its switch is on&lt;/li&gt;
+&lt;li&gt;Merge main into portal-links&lt;/li&gt;
+&lt;li&gt;Console: the modifiers and filters commands reach the page&lt;/li&gt;
+&lt;li&gt;Spec sheet: Modifiers and Filters rows, their picker, and library tabs&lt;/li&gt;
+&lt;li&gt;Sensor modes under their camera body; the ··· menu over the library window&lt;/li&gt;
+&lt;li&gt;Spec sheet phase 3: the Camera tab editor on the record, lens picker, sensor mode pill, Lens Library and Sensor Modes, headless check with photographs&lt;/li&gt;
+&lt;li&gt;Spec sheet phase 3: the record's sheet in the backend, lens library and sensor modes doors, New Shoot copies the record sheet, lens check reads the record&lt;/li&gt;
+&lt;li&gt;Merge branch 'spec-pills'&lt;/li&gt;
+&lt;li&gt;Crew icons, desk notifications, portal tab checks (another thread's work, committed as found)&lt;/li&gt;
+&lt;li&gt;Console spec sheet: every value a Notion-coloured pill, cameras edited the old way, Copy on Lenses&lt;/li&gt;
+&lt;li&gt;Older spec sheet editors write proper pills; camera labels kept on the record&lt;/li&gt;
+&lt;li&gt;Spec sheet as pills: read and write Notion's multi-selects, pill picker, camera labels on the record&lt;/li&gt;
+&lt;li&gt;New Project made by the server: the Mac makes the media folders it owes&lt;/li&gt;
+&lt;li&gt;Portal tab: links and files are sidebar rows like any page (list, Add Pages, counts); a comma in a name survives the order&lt;/li&gt;
+&lt;li&gt;Showcase website/ is flat: no more website/&amp;lt;slug&amp;gt;/1-thumbnails/&lt;/li&gt;
+&lt;li&gt;Test: wait for the scheduled native run to finish, not just appear&lt;/li&gt;
+&lt;li&gt;New Film: no second film for a project whose film the server made&lt;/li&gt;
+&lt;li&gt;Folder lists to the hub for the phone with the Mac off (stage 3 step 5)&lt;/li&gt;
+&lt;li&gt;Push: a key the Keychain hands back as hex is turned back into PEM&lt;/li&gt;
+&lt;li&gt;Push: the Mac takes in the phones the hub registered&lt;/li&gt;
+&lt;li&gt;Film facts: this Mac stands down when the hub writes the films&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.7.0/Projects-Console-1.7.0.zip" length="41792846" type="application/octet-stream" sparkle:edSignature="GWjtx5dN6eBPtgR6Ymo6qwMu+G54Ct3PjN073tPLr2G/mM+pIQpKX4SUKQSyCWlY7W4JqwwWu1oZR3QJs76MDw==" />
+    </item>
+    <item>
       <title>1.6.1</title>
       <pubDate>Sun, 11 Oct 2026 11:20:07 -0700</pubDate>
       <sparkle:version>289</sparkle:version>
