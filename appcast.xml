@@ -5,6 +5,54 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.8.0</title>
+      <pubDate>Thu, 15 Oct 2026 08:46:05 -0700</pubDate>
+      <sparkle:version>360</sparkle:version>
+      <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Keep the 'Nothing is deleted' line in the Remove Category confirmation&lt;/li&gt;
+&lt;li&gt;Copy polish, startup flash and Satellite label&lt;/li&gt;
+&lt;li&gt;Media rule check over the whole console: no function both reaches a media drive and changes files&lt;/li&gt;
+&lt;li&gt;Merge stage5-step7-moves (the big moves) into stage5-step7&lt;/li&gt;
+&lt;li&gt;Big-move sheet: real content flagged at the top; the folder picker hides the old plan&lt;/li&gt;
+&lt;li&gt;Big-move Mac jobs answer in parts for macjobs.py (stills, studio, bridge); registry checks&lt;/li&gt;
+&lt;li&gt;Bell: Mac jobs that need him count with the agents' held cards&lt;/li&gt;
+&lt;li&gt;Merge branch 'stage5-step7' into stage5-step7-moves&lt;/li&gt;
+&lt;li&gt;Step 7 big moves on the Mac: one sheet for Wrap/Archive/Move/Rename/Turn Off/Delete/Prepare Showcase, routed to the server (offline: Can't reach the server.); Wrap parks as Post only, Archive removes nothing, Turn Off is showcase+website, Rename and Delete never touch media; Mac jobs for showcase stills, Studio's drive folder, the bridge list&lt;/li&gt;
+&lt;li&gt;Merge stage5-step7-macjobs (the Mac jobs list) into stage5-step7&lt;/li&gt;
+&lt;li&gt;Merge branch 'stage5-step7' into stage5-step7-macjobs&lt;/li&gt;
+&lt;li&gt;Mac jobs: live driver (macjobs_live.py) for hub/macjobs-live.mjs: the real macjobs.py with a scratch disk image, plug and pull, detached after&lt;/li&gt;
+&lt;li&gt;Merge main (step 6 live) into stage5-step7&lt;/li&gt;
+&lt;li&gt;Step 7 piece A: the Mac jobs list on the Mac (macjobs.py): one loop for the phone's asks and the jobs, presence with drives and tools, claims and leases, media-folders/sidebar/index/ask kinds, create-only refusals; switch off keeps the two old loops; bell, project page and Drives tab show the jobs; Index Now as a job&lt;/li&gt;
+&lt;li&gt;Step 7: media drives are create-only — the footage move is removed (engine, backend, app, UI, jobs.py) and a guard under every path refuses any change on /Volumes but mkdir and the first marker&lt;/li&gt;
+&lt;li&gt;Step 6 landing fixes: a Music Video follows his saved Commercial standard unless it has its own (same rule as the server); with the shared log on, a New Shoot routed to the server is logged there, not twice&lt;/li&gt;
+&lt;li&gt;Step 6: media-drive hard rule (guard + checks), router hook for records copies&lt;/li&gt;
+&lt;li&gt;Merge branch 'stage5-step6-history' into stage5-step6&lt;/li&gt;
+&lt;li&gt;Merge branch 'stage5-step6-health' into stage5-step6&lt;/li&gt;
+&lt;li&gt;Merge branch 'stage5-step6-records' into stage5-step6&lt;/li&gt;
+&lt;li&gt;Step 6 health (Mac side): the server's folder-health answers get this Mac's drives (media_gaps/media_tree/media_line); a Job's gigs/ folder is loose by design, no spine gaps; engine.media_missing_on and media_trees pulled out unchanged&lt;/li&gt;
+&lt;li&gt;Step 6 records: the router's lists for records and templates (nine reads on the spot, a Type's standard waits offline), this Mac's copies of the server's standards and folder template, and Settings shows a waiting standard as asked&lt;/li&gt;
+&lt;li&gt;Step 6 history: the Mac ships its activity lines to the server's shared log (its file is the outbox) and lists the merged log; switch off = exactly as before&lt;/li&gt;
+&lt;li&gt;Step 6 portal: the router's list for the sidebar and Library edits, Remove (wait offline) and the preview's addresses (a read); the preview window and a file Add stay this Mac's&lt;/li&gt;
+&lt;li&gt;A Job's Drive folder is loose: the folder and its marker, no template (filing rules: Tier 2, no ceremony); online, offline and when finishing an offline folder; a Project without Notion keeps the template&lt;/li&gt;
+&lt;li&gt;Step 6 scaffold: router reads each group's routes from s6_*.py&lt;/li&gt;
+&lt;li&gt;Merge branch 'main' into stage5-step5&lt;/li&gt;
+&lt;li&gt;New Project: a Job's five mode switches start off and can be switched (his answer 11); a Job born with modes keeps them on its record&lt;/li&gt;
+&lt;li&gt;Merge branch 'stage5-step5-systems' into stage5-step5&lt;/li&gt;
+&lt;li&gt;This Mac's modes answer says nothing about the server's switch (switch: None), so offline the tiles stay switchable and a change says 'Can't reach the server.' (seen in the lab build)&lt;/li&gt;
+&lt;li&gt;New Project: Drive folder always made (switch on and fixed, as the server requires); Music Video added to Notion's Type before a project is made with it, on both the Mac and server paths&lt;/li&gt;
+&lt;li&gt;Systems card, shoot picker and Frames in the console (stage 5 step 5): five Studio mode tiles each with its own switch (on at once, off asks, Shot List with Schedule as a pair, the server's needs:both asks the same), a tile opens Studio at its mode; Lives In chips; Out rows with the portal's Shared switch, Take Down in the card's menu; tick circles, count, New Film and the Systems… panel gone. ‹ shoot ▾ › picker beside the name replaces the shoot tabs, hidden with one shoot. Frames row in the record spec sheet. Headless check systems_check.js&lt;/li&gt;
+&lt;li&gt;Frames on the record spec sheet (stage 5 step 5): sheet.frames [{name, ratio, resolution, main}], exactly one Main, none stored until the first frame edit (one Main frame from the first camera's guide and finishing, a non-ratio left blank); ops add_frame, frame, remove_frame, main_frame, as hub specsheet.js applyFrameOp&lt;/li&gt;
+&lt;li&gt;Settings: New Projects groups each Type's Studio modes (switches), Record, Templates and the Spec Sheet libraries; a Type's standard keeps its starting modes&lt;/li&gt;
+&lt;li&gt;Jobs listed apart under Projects (from the server's one list) and opened to a Job card: name, type, dates, Drive&lt;/li&gt;
+&lt;li&gt;New Project or Job sheet: Kind, Type, Studio mode switches, Set Up switches, More Options; drops the tier and Shotlister film controls&lt;/li&gt;
+&lt;li&gt;create_project honours job, modes and setup: a Job gets a Job Log row and a kind-job record, a Project its modes fact at birth; new_project_options returns Music Video and modes_standard&lt;/li&gt;
+&lt;li&gt;Music Video behaves like a Commercial; Studio modes standards in recordlayout; Job Log row and ensure_music_video_type in engine; New Project can skip the Drive folder&lt;/li&gt;
+&lt;li&gt;Systems card asks (stage 5 step 5): project_modes, set_project_mode, portal_state, portal_shared through the router; reads saved for offline, the switches the server's alone and 'Can't reach the server.' offline; this Mac's own answers from kept facts and its share link&lt;/li&gt;
+&lt;li&gt;The script's draft in the console (stage 5 step 4C): the Shotlister row says the draft in use, labelled by the rule every app shares (scriptlabel.py, held to shotlister's scriptlabel-cases.json)&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.8.0/Projects-Console-1.8.0.zip" length="41869943" type="application/octet-stream" sparkle:edSignature="1BiR5kBo3G+U3EXdTCdHIorlZqWw0AC+70RsoLSiPO2qvz78OggTwvCm1U/IFlZaCzj8vmNla2r0WxkYTU81DQ==" />
+    </item>
+    <item>
       <title>1.7.1</title>
       <pubDate>Wed, 14 Oct 2026 22:55:20 -0700</pubDate>
       <sparkle:version>320</sparkle:version>
