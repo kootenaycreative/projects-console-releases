@@ -5,6 +5,23 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.10.0</title>
+      <pubDate>Sat, 17 Oct 2026 12:15:04 -0700</pubDate>
+      <sparkle:version>415</sparkle:version>
+      <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Released to Showcase in one sheet: Facts, Selects, Key Still, Showcase. Later at any step, Continue on the project page. Prepare Showcase makes the showcase from the stills you picked (numbered, nothing deleted), and shows every file before it writes.&lt;/li&gt;
+&lt;li&gt;Released and Close Project: a Released stage with stills, a Released sheet (website, date, credit), and a plain list of links you can add, reorder and remove. Close Project and Reopen Project are in the File menu.&lt;/li&gt;
+&lt;li&gt;Released page stills: Key Still, Featured (your starred six) and All views, with a full-screen viewer.&lt;/li&gt;
+&lt;li&gt;Choose Selects fixed: every still shown whole at its own shape, and Choose Folder lets you pick stills from any folder.&lt;/li&gt;
+&lt;li&gt;Camera spec sheet is calmer: clear headings in order, cameras that agree named together, and an Edit mode.&lt;/li&gt;
+&lt;li&gt;Mods: a Mods group in Project Settings with a switch for each mod, off by default.&lt;/li&gt;
+&lt;li&gt;Online means online: a slow answer from the server is no longer called offline. Deleted projects stay deleted.&lt;/li&gt;
+&lt;li&gt;One Look: the console uses the same sizes, colours and project icons as Studio. The project list groups Active, Development, Post and Released.&lt;/li&gt;
+&lt;li&gt;Opens instantly from the last saved copy, then refreshes behind it. Frame guide files on an Aspect Ratio, and faster saves that show at once.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.10.0/Projects-Console-1.10.0.zip" length="41968296" type="application/octet-stream" sparkle:edSignature="sBcAzgXGWmpAg7W8nE9xYYCFIFDlZeYzo4dQG7UWPtILOH7rphXKbXshuEXKUk2I5IO0ZBhji8tnVJLKGrQMDQ==" />
+    </item>
+    <item>
       <title>1.9.0</title>
       <pubDate>Thu, 15 Oct 2026 12:31:37 -0700</pubDate>
       <sparkle:version>370</sparkle:version>
