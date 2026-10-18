@@ -5,6 +5,21 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.12.0</title>
+      <pubDate>Sat, 17 Oct 2026 19:24:45 -0700</pubDate>
+      <sparkle:version>430</sparkle:version>
+      <sparkle:shortVersionString>1.12.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;One menu for ··· and right-click on a project: Add Shoot…, Rename…, Customize Record…, Copy All Links, Release…, Prepare or Edit Showcase…, Close and Delete.&lt;/li&gt;
+&lt;li&gt;The Portal menu is about the portal itself. The Share card keeps the people side and has a new Access… button.&lt;/li&gt;
+&lt;li&gt;Settings has four tabs: General, New Projects, Libraries and This Mac.&lt;/li&gt;
+&lt;li&gt;"Add Shoot" and "Stage" are the words everywhere on screen.&lt;/li&gt;
+&lt;li&gt;Showcase has one door: Prepare Showcase…, then Edit Showcase…. Turning it off is "Turn Off Showcase…".&lt;/li&gt;
+&lt;li&gt;Lately uses plain words, like "Showcase prepared".&lt;/li&gt;
+&lt;li&gt;Unused settings and the old chat-made agent panel are removed. Nothing you saved was deleted.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.12.0/Projects-Console-1.12.0.zip" length="41961668" type="application/octet-stream" sparkle:edSignature="+2nlzUjvFXo66/IZbpd8zdGvvvnldsnUgeNVovZQVF4Iq5LDbFh1UaVDk0AjcckaeeQFVq5+yLljsmbDeBjTAg==" />
+    </item>
+    <item>
       <title>1.11.0</title>
       <pubDate>Sat, 17 Oct 2026 17:37:23 -0700</pubDate>
       <sparkle:version>428</sparkle:version>
