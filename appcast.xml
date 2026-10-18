@@ -5,6 +5,20 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.11.0</title>
+      <pubDate>Sat, 17 Oct 2026 17:37:23 -0700</pubDate>
+      <sparkle:version>428</sparkle:version>
+      <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Prepare Showcase is faster and runs in the background. Each step and count ticks in the sheet, and a quiet note says when it is done. The Mac Jobs card sits at the bottom, with finished jobs on one line.&lt;/li&gt;
+&lt;li&gt;Edit Showcase in the ··· menu: reopens the Released sheet on your picks, shows what changed, and one Update Showcase button. Continue on a made showcase opens it.&lt;/li&gt;
+&lt;li&gt;Show on Portal: switch on any Drive file in a project's Documents tab and it appears on the portal. Big folders open to their folders.&lt;/li&gt;
+&lt;li&gt;Showcase stills stay under 1 MB. A pick from stills/hq gets a web-sized copy.&lt;/li&gt;
+&lt;li&gt;Released stills open on the showcase's hq stills when there are any.&lt;/li&gt;
+&lt;li&gt;The app no longer breaks if a new copy is installed over it while it runs.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.11.0/Projects-Console-1.11.0.zip" length="41979241" type="application/octet-stream" sparkle:edSignature="n7ZED8V9AulMebbVX+J9pCWYI6uBb6d9NeY0KbX6cARF9pMo9RfaznGacnR9V4qEuLr+R2x+lj29MiEnWciAAw==" />
+    </item>
+    <item>
       <title>1.10.0</title>
       <pubDate>Sat, 17 Oct 2026 12:15:04 -0700</pubDate>
       <sparkle:version>415</sparkle:version>
