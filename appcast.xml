@@ -5,6 +5,20 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.13.0</title>
+      <pubDate>Sat, 17 Oct 2026 23:49:37 -0700</pubDate>
+      <sparkle:version>433</sparkle:version>
+      <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Dragging select stills works: press one in the numbered strip and move it sideways; the others make room.&lt;/li&gt;
+&lt;li&gt;Released is now a stage in the picker, not a menu item. "Release…" is gone from the ··· and right-click menus.&lt;/li&gt;
+&lt;li&gt;Preparing a showcase never changes the stage. Only the stage picker moves it.&lt;/li&gt;
+&lt;li&gt;Each stage has a colour dot: Development purple, Active green, Post amber, Released blue, Archived gray.&lt;/li&gt;
+&lt;li&gt;The stage picker lists what each stage does.&lt;/li&gt;
+&lt;li&gt;Clicking a LUT on the camera spec sheet shows its file.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.13.0/Projects-Console-1.13.0.zip" length="41967849" type="application/octet-stream" sparkle:edSignature="qdBCK0zFYZnuPuRHgFfdjghHbmlNhNWkdB24TWxprW4TemxB+LEJjkZBLYRzOtYuL3ph0qShx0DM+uaMuTYLAQ==" />
+    </item>
+    <item>
       <title>1.12.0</title>
       <pubDate>Sat, 17 Oct 2026 19:24:45 -0700</pubDate>
       <sparkle:version>430</sparkle:version>
