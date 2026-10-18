@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.15.0</title>
+      <pubDate>Sun, 18 Oct 2026 10:24:58 -0700</pubDate>
+      <sparkle:version>439</sparkle:version>
+      <sparkle:shortVersionString>1.15.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Removes the old Mac-only copies now that the server does that work.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.15.0/Projects-Console-1.15.0.zip" length="41913342" type="application/octet-stream" sparkle:edSignature="UZ9HP992KjX9wJVpo4f8OQWXnlEdKeojiR9l/+FuCDyQPZF/379L949nAngLPzyh7Y87dZyUrQLaOZzu9j0lDA==" />
+    </item>
+    <item>
       <title>1.14.0</title>
       <pubDate>Sun, 18 Oct 2026 00:51:14 -0700</pubDate>
       <sparkle:version>438</sparkle:version>
