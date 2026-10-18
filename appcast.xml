@@ -5,6 +5,16 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.14.0</title>
+      <pubDate>Sun, 18 Oct 2026 00:51:14 -0700</pubDate>
+      <sparkle:version>438</sparkle:version>
+      <sparkle:shortVersionString>1.14.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;The stage picker no longer lists what each stage does.&lt;/li&gt;
+&lt;li&gt;Post, Released and Archived ask once, with what will happen, before anything changes. Development and Active change at once.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.14.0/Projects-Console-1.14.0.zip" length="41967680" type="application/octet-stream" sparkle:edSignature="0I9OFNeDdIROZXhJQi69kDFzRR2F+mZIBv4LJEBrb+JHtSi8OAU7pGz4+0Wj8O8Wd5HhZ1rgfZCMJ02bfu2QDg==" />
+    </item>
+    <item>
       <title>1.13.0</title>
       <pubDate>Sat, 17 Oct 2026 23:49:37 -0700</pubDate>
       <sparkle:version>433</sparkle:version>
