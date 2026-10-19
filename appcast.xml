@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.16.0</title>
+      <pubDate>Sun, 18 Oct 2026 23:14:13 -0700</pubDate>
+      <sparkle:version>451</sparkle:version>
+      <sparkle:shortVersionString>1.16.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;A calmer project page: one row of buttons for Studio, Drive, Notion, Media, Portal and Website; click the title to rename.&lt;/li&gt;&lt;li&gt;Overview leads with what matters at each stage; sections can be arranged.&lt;/li&gt;&lt;li&gt;Portal: the Sidebar beside the Library, drag pages between them; Share… holds the link, password and people.&lt;/li&gt;&lt;li&gt;Files shows your folders, grouped by Drive, Notion and Links; add a file to the portal from there.&lt;/li&gt;&lt;li&gt;People: Off, Name or Contact for the portal. Mods show only on projects that use them.&lt;/li&gt;&lt;li&gt;Top bar numbers appear only when something needs you.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.16.0/Projects-Console-1.16.0.zip" length="41937467" type="application/octet-stream" sparkle:edSignature="hoVlWDoiEGxDzKliPamkRnZ0I0l9NH2eFqmYPqgbFvQGbZ+x9MiqbmbmBA9DHdSSytU9cA1Hk56SCc+ni3KeDw==" />
+    </item>
+    <item>
       <title>1.15.0</title>
       <pubDate>Sun, 18 Oct 2026 10:24:58 -0700</pubDate>
       <sparkle:version>439</sparkle:version>
