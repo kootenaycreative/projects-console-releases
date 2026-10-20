@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.18.0</title>
+      <pubDate>Mon, 19 Oct 2026 23:56:00 -0700</pubDate>
+      <sparkle:version>487</sparkle:version>
+      <sparkle:shortVersionString>1.18.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;The Story shows a hand pointer, so you know a part can be clicked.&lt;/li&gt;&lt;li&gt;Long Story parts fold up; click to open the rest.&lt;/li&gt;&lt;li&gt;Crew roles are now set per project.&lt;/li&gt;&lt;li&gt;Add Shoot is faster: the sheet closes at once and finishes in the background.&lt;/li&gt;&lt;li&gt;A project set to Post stays Post.&lt;/li&gt;&lt;li&gt;If Notion is down, nothing is blocked and no change is lost; it catches up later.&lt;/li&gt;&lt;li&gt;If Notion refuses its key, the app now says so.&lt;/li&gt;&lt;li&gt;Sheet fixes.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.18.0/Projects-Console-1.18.0.zip" length="41989987" type="application/octet-stream" sparkle:edSignature="w89JEvyJz0SQ+QVRpRNzsBOEA5lE4ufi5m2PZqG6z/QC4kZs5ZRFw12+//rNG9UgVjWFU2VQCK/OMCtQEjXYBA==" />
+    </item>
+    <item>
       <title>1.17.0</title>
       <pubDate>Mon, 19 Oct 2026 21:16:32 -0700</pubDate>
       <sparkle:version>457</sparkle:version>
