@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.20.0</title>
+      <pubDate>Tue, 20 Oct 2026 11:40:50 -0700</pubDate>
+      <sparkle:version>512</sparkle:version>
+      <sparkle:shortVersionString>1.20.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;Each shoot has its own camera spec sheet, and a new shoot starts as a copy of the last one.&lt;/li&gt;&lt;li&gt;The sheet names the shoot you're editing.&lt;/li&gt;&lt;li&gt;Copy From Shoot… takes another shoot's whole sheet.&lt;/li&gt;&lt;li&gt;Spec sheet saves show at once.&lt;/li&gt;&lt;li&gt;Camera and format pickers narrow as you type.&lt;/li&gt;&lt;li&gt;Replacing a camera shows its formats right there.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.20.0/Projects-Console-1.20.0.zip" length="42012033" type="application/octet-stream" sparkle:edSignature="9VzX8MOmBOWlraKwVQ5QyUUA/usLpL/4paWFE5tcU4SelXuf3PcKrxkt/102N9fDWNWyYNolu2RO8YIhrhE+Dw==" />
+    </item>
+    <item>
       <title>1.19.0</title>
       <pubDate>Tue, 20 Oct 2026 02:23:55 -0700</pubDate>
       <sparkle:version>507</sparkle:version>
