@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.19.0</title>
+      <pubDate>Tue, 20 Oct 2026 02:23:55 -0700</pubDate>
+      <sparkle:version>507</sparkle:version>
+      <sparkle:shortVersionString>1.19.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;Released is now called Complete, and the release date is optional.&lt;/li&gt;&lt;li&gt;Asks before a portal goes live, and before moving an Archived project back.&lt;/li&gt;&lt;li&gt;Escape asks "Discard Changes?".&lt;/li&gt;&lt;li&gt;Crew and document changes wait for Notion and catch up.&lt;/li&gt;&lt;li&gt;Waiting changes stay in order.&lt;/li&gt;&lt;li&gt;The bell closes on Escape.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.19.0/Projects-Console-1.19.0.zip" length="42005647" type="application/octet-stream" sparkle:edSignature="eCqP3okZVMVOeNyFAeo+y/yifsdj8pIjdJoJyqbLvTeFs6lFgBNduuZigKNCwB2qmaRq7Xvj1F5j/pyWoamSDw==" />
+    </item>
+    <item>
       <title>1.18.0</title>
       <pubDate>Mon, 19 Oct 2026 23:56:00 -0700</pubDate>
       <sparkle:version>487</sparkle:version>
