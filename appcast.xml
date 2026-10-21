@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.21.0</title>
+      <pubDate>Wed, 21 Oct 2026 15:41:32 -0700</pubDate>
+      <sparkle:version>515</sparkle:version>
+      <sparkle:shortVersionString>1.21.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;Copy Link on every portal page.&lt;/li&gt;&lt;li&gt;Copy Link copies the public link; Copy Private Link sits beside it.&lt;/li&gt;&lt;li&gt;Pages hidden from viewers say so.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.21.0/Projects-Console-1.21.0.zip" length="42013317" type="application/octet-stream" sparkle:edSignature="vb6UyrCMRNFc7cFlt3HAdwY2r7uihlgUbdmV7gLz1Zvl8bAO84nZmw1zL1Q3+4uCESojJvvhVgnALuFHqDEeDQ==" />
+    </item>
+    <item>
       <title>1.20.0</title>
       <pubDate>Tue, 20 Oct 2026 11:40:50 -0700</pubDate>
       <sparkle:version>512</sparkle:version>
