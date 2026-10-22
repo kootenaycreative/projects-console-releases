@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.23.0</title>
+      <pubDate>Thu, 22 Oct 2026 03:23:44 -0700</pubDate>
+      <sparkle:version>533</sparkle:version>
+      <sparkle:shortVersionString>1.23.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;People: click a role to change it. The role is the credit, and each shoot can have its own roles.&lt;/li&gt;&lt;li&gt;A shoot's days stay in step with the calendar, and gaps between days are kept.&lt;/li&gt;&lt;li&gt;The showcase folder is made when a project reaches Post, and the HQ and LQ files are made automatically.&lt;/li&gt;&lt;li&gt;New spec sheet entry: type in the field you click, saves when you leave, ⌘Z undoes.&lt;/li&gt;&lt;li&gt;One Cameras library gives each camera its own modes, codecs and color spaces.&lt;/li&gt;&lt;li&gt;A lens set is one tag. Alexa Mini is named Alexa Mini.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.23.0/Projects-Console-1.23.0.zip" length="42056515" type="application/octet-stream" sparkle:edSignature="oSAlGUshNFqaMJFcZw7l1NA/j0g6JJ8T9YEx5nLBvIAoAzY1/HkblPqWWqTPQdKQAZvluMCdYdZVrweBv1UYDg==" />
+    </item>
+    <item>
       <title>1.22.0</title>
       <pubDate>Wed, 21 Oct 2026 20:46:00 -0700</pubDate>
       <sparkle:version>518</sparkle:version>
