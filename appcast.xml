@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.22.0</title>
+      <pubDate>Wed, 21 Oct 2026 20:46:00 -0700</pubDate>
+      <sparkle:version>518</sparkle:version>
+      <sparkle:shortVersionString>1.22.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;A project stays on the list even when Notion cannot see its page.&lt;/li&gt;&lt;li&gt;Blank spec sheets offer your cameras again.&lt;/li&gt;&lt;li&gt;The camera list no longer empties after a few minutes.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.22.0/Projects-Console-1.22.0.zip" length="42014852" type="application/octet-stream" sparkle:edSignature="fFL8K2lyszmC3eXeD76cl+fHjEty+YZ+4hyWZG6lrh38ayMgZzzXCORwG0SmZYiL/ET5NzVPgkHOWcVJBpesBg==" />
+    </item>
+    <item>
       <title>1.21.0</title>
       <pubDate>Wed, 21 Oct 2026 15:41:32 -0700</pubDate>
       <sparkle:version>515</sparkle:version>
