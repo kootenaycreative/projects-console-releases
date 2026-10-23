@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.24.0</title>
+      <pubDate>Thu, 22 Oct 2026 19:20:10 -0700</pubDate>
+      <sparkle:version>540</sparkle:version>
+      <sparkle:shortVersionString>1.24.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;Works fully without Notion: projects are found by their record, and a missing record is made.&lt;/li&gt;&lt;li&gt;Create Notion Page, and two-way sync when a page exists.&lt;/li&gt;&lt;li&gt;New Shoot runs from the record.&lt;/li&gt;&lt;li&gt;Rename goes through Google Drive directly.&lt;/li&gt;&lt;li&gt;Test projects stay hidden by name.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.24.0/Projects-Console-1.24.0.zip" length="42061241" type="application/octet-stream" sparkle:edSignature="pTP3yXyppLTA04YSHR4gwsFz+VnHWGSv/HNFa6cU/HjrmleD8GyEYjxwVySgIWopqQkyx4r1wqZQlSJCRrXLBw==" />
+    </item>
+    <item>
       <title>1.23.0</title>
       <pubDate>Thu, 22 Oct 2026 03:23:44 -0700</pubDate>
       <sparkle:version>533</sparkle:version>
