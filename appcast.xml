@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.26.0</title>
+      <pubDate>Sun, 25 Oct 2026 11:25:58 -0700</pubDate>
+      <sparkle:version>547</sparkle:version>
+      <sparkle:shortVersionString>1.26.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;Expanders and extenders from the wiki show up in the Lenses and Modifiers pickers.&lt;/li&gt;&lt;li&gt;Adding from the wiki now keeps the image circle and the wiki note on the portal.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.26.0/Projects-Console-1.26.0.zip" length="42088171" type="application/octet-stream" sparkle:edSignature="orcf60+C0PCM6c5MCNJdFjt0OMpjhlVDlsUDmm6LXoTOkdZbPydUQYj4FEwhY6JBxd4oc3xXiFSewUVLCRoYBg==" />
+    </item>
+    <item>
       <title>1.25.0</title>
       <pubDate>Sat, 24 Oct 2026 19:04:43 -0700</pubDate>
       <sparkle:version>544</sparkle:version>
