@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.29.0</title>
+      <pubDate>Mon, 26 Oct 2026 10:21:18 -0700</pubDate>
+      <sparkle:version>559</sparkle:version>
+      <sparkle:shortVersionString>1.29.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;Shoot dates and Studio's calendar are one set of days: changing a shoot's last day adds days in Studio, or takes away empty ones. A day with shots on it stays.&lt;/li&gt;&lt;li&gt;Moving a shoot's first day keeps its length: the last day moves with it.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.29.0/Projects-Console-1.29.0.zip" length="42120443" type="application/octet-stream" sparkle:edSignature="gucw4xK5PL1vvyDR3J/YdI/KHvsistY5OsCFtnH1tBjgbnxXYcGOkcb6hpoRIcs299hd4WrXS7CGjtavQeZQBA==" />
+    </item>
+    <item>
       <title>1.28.0</title>
       <pubDate>Sun, 25 Oct 2026 19:38:19 -0700</pubDate>
       <sparkle:version>557</sparkle:version>
