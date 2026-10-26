@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.28.0</title>
+      <pubDate>Sun, 25 Oct 2026 19:38:19 -0700</pubDate>
+      <sparkle:version>557</sparkle:version>
+      <sparkle:shortVersionString>1.28.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;Money tab is friendlier: a one-line summary up top, each invoice says where it stands in words, and open invoices are grouped into Ready to send and Waiting on clients.&lt;/li&gt;&lt;li&gt;Ask Claude on every invoice: opens a chat with Claude already told about that invoice.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.28.0/Projects-Console-1.28.0.zip" length="42119358" type="application/octet-stream" sparkle:edSignature="TNT/NbrsqlblQiEmVK9vZ4J67qGXZMbRy2xGCglEQiGlIeZ+trKT1KMZjjWqOgMbBvi3clgMUqZGHPv1is+LBQ==" />
+    </item>
+    <item>
       <title>1.27.0</title>
       <pubDate>Sun, 25 Oct 2026 17:45:09 -0700</pubDate>
       <sparkle:version>551</sparkle:version>
