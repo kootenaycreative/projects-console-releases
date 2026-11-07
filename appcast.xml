@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.31.0</title>
+      <pubDate>Sat, 07 Nov 2026 12:31:55 -0800</pubDate>
+      <sparkle:version>566</sparkle:version>
+      <sparkle:shortVersionString>1.31.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;Agent cards answer at once: the card goes the moment you click it, and a refusal brings it back with the reason.&lt;/li&gt;&lt;li&gt;Answers from the phone reach this Mac much faster and no longer collide when you make several in a row.&lt;/li&gt;&lt;li&gt;The Money tab re-reads the moment an invoice changes.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.31.0/Projects-Console-1.31.0.zip" length="42124539" type="application/octet-stream" sparkle:edSignature="lOAvEXFwafJja12r7Zqf9rM3huAL5qI1XUB9paD8XKz/itXSukFW0GlYgxPY4EgXt6xvmi3VTvZcf6OHSKlLBg==" />
+    </item>
+    <item>
       <title>1.30.0</title>
       <pubDate>Mon, 26 Oct 2026 11:20:05 -0700</pubDate>
       <sparkle:version>562</sparkle:version>
