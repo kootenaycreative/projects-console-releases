@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.33.0</title>
+      <pubDate>Sun, 08 Nov 2026 09:27:02 -0800</pubDate>
+      <sparkle:version>571</sparkle:version>
+      <sparkle:shortVersionString>1.33.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;Every action that takes more than a moment shows in a small card at the bottom left: what it is, where it stands, its steps, and how long. A slow one says so, and one waiting on the Studio Mac says when it hasn't been picked up.&lt;/li&gt;&lt;li&gt;A failure stays with its reason until you dismiss it.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.33.0/Projects-Console-1.33.0.zip" length="42133212" type="application/octet-stream" sparkle:edSignature="vEf67BfUxPE9l60G2auzibvVcffIBXT1ukOlurJElNQg2LFxfo9HZNGACvCTxd5tVyxiOkdqlQ0VIx3xeIAADA==" />
+    </item>
+    <item>
       <title>1.32.0</title>
       <pubDate>Sun, 08 Nov 2026 08:54:41 -0800</pubDate>
       <sparkle:version>569</sparkle:version>
