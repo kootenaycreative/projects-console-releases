@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.32.0</title>
+      <pubDate>Sun, 08 Nov 2026 08:54:41 -0800</pubDate>
+      <sparkle:version>569</sparkle:version>
+      <sparkle:shortVersionString>1.32.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;New Project shows each step as it happens: the Drive folder, the Notion page, the record, the Studio project and the portal, with how long it took. Close the sheet and it carries on in a small card.&lt;/li&gt;&lt;li&gt;A new project starts at once instead of waiting up to a minute.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.32.0/Projects-Console-1.32.0.zip" length="42125013" type="application/octet-stream" sparkle:edSignature="g3SMi6Yi6Mz6WDwGOuxNSVl6QrG7kTHAiQONUaTTlxSNqLJGA9S7tInjxSx8KZS/LbYoEmgXyvaECG+uy8XnAQ==" />
+    </item>
+    <item>
       <title>1.31.0</title>
       <pubDate>Sat, 07 Nov 2026 12:31:55 -0800</pubDate>
       <sparkle:version>566</sparkle:version>
