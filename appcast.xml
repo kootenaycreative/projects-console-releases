@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.34.0</title>
+      <pubDate>Sun, 08 Nov 2026 14:34:52 -0800</pubDate>
+      <sparkle:version>590</sparkle:version>
+      <sparkle:shortVersionString>1.34.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;Shoot folders: a second shoot splits each per-shoot folder into shoot-1 and shoot-2 inside it. Add Shoot lists what moves into shoot-1, folder by folder, and anything you switch off stays for every shoot. Settings has a Per Shoot switch on each Drive folder.&lt;/li&gt;&lt;li&gt;Remove Shoot… on a shoot's right-click menu, with Undo.&lt;/li&gt;&lt;li&gt;One calendar for every date: Add Shoot, New Project and the release date pick days on the same calendar as editing dates.&lt;/li&gt;&lt;li&gt;Fixes from a full check of every action: Close, Reopen, Wrap, Archive, Backup and the other long jobs start at once; a request from the laptop or phone is never left "working" when its answer is lost; a deleted project says so; stills never sit on Loading.&lt;/li&gt;&lt;li&gt;A phone that's gone stays gone, a question's notification no longer offers an Approve it can't use, and the log no longer repeats itself.&lt;/li&gt;&lt;li&gt;Money's summary mentions late and unopened invoices instead of saying nothing's waiting.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.34.0/Projects-Console-1.34.0.zip" length="42144212" type="application/octet-stream" sparkle:edSignature="pNWtRZUg9UsRSEI5JqDUDyOzzUdAI5vMBO8AP0kT0p8+16Ct1U9s8bYXet6gvK4tr4ThIhabhMFfapRvG9GZCQ==" />
+    </item>
+    <item>
       <title>1.33.0</title>
       <pubDate>Sun, 08 Nov 2026 09:27:02 -0800</pubDate>
       <sparkle:version>571</sparkle:version>
