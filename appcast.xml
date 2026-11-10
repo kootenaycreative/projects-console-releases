@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.36.4</title>
+      <pubDate>Tue, 10 Nov 2026 12:09:56 -0800</pubDate>
+      <sparkle:version>610</sparkle:version>
+      <sparkle:shortVersionString>1.36.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;Copying a person, phone or email no longer pastes odd symbols in place of dots and accents.&lt;/li&gt;&lt;li&gt;A person you just added gets their portal switch at once.&lt;/li&gt;&lt;li&gt;Schedule and Shot List can be on or off on their own.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.36.4/Projects-Console-1.36.4.zip" length="42158620" type="application/octet-stream" sparkle:edSignature="Ljjdh67uYg43ZnKXlmdQleH2zdYhRW3FBu0nXTCYV8oVU3E66HOheyX2ypQz/8KxSwjxDdJR6hWJY7UWtpxJCg==" />
+    </item>
+    <item>
       <title>1.36.3</title>
       <pubDate>Tue, 10 Nov 2026 07:59:21 -0800</pubDate>
       <sparkle:version>607</sparkle:version>
