@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.36.2</title>
+      <pubDate>Mon, 09 Nov 2026 23:23:53 -0800</pubDate>
+      <sparkle:version>601</sparkle:version>
+      <sparkle:shortVersionString>1.36.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;Typing in the spec sheet no longer gets stuck: the page stops redrawing under you while you type, and changes from elsewhere catch up when you leave the box.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.36.2/Projects-Console-1.36.2.zip" length="42155331" type="application/octet-stream" sparkle:edSignature="nNwY4N0LCYRKM0UVZPH3jYxwIQFx/o1RKO01CJmW33oQ0qutVNnTAo/C8KTFTQpbHWu/2vrpMOXXHVwsNPGKAw==" />
+    </item>
+    <item>
       <title>1.36.1</title>
       <pubDate>Sun, 08 Nov 2026 18:22:35 -0800</pubDate>
       <sparkle:version>599</sparkle:version>
