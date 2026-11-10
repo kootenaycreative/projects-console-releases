@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.36.3</title>
+      <pubDate>Tue, 10 Nov 2026 07:59:21 -0800</pubDate>
+      <sparkle:version>607</sparkle:version>
+      <sparkle:shortVersionString>1.36.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;Calmer while you work: the page no longer redraws under you when something changes elsewhere, typing is never interrupted by background checks, search boxes keep the cursor where you put it, and Money, Agents and Settings keep the box you are typing in.&lt;/li&gt;&lt;li&gt;After two quick changes, an older answer can no longer put the earlier value back.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.36.3/Projects-Console-1.36.3.zip" length="42156285" type="application/octet-stream" sparkle:edSignature="arkTIvwIBgPuNGvxQp0pBtX1si6j1oBa1y7JCTUdpJNhuEzlH5g7+4eAjEVKihejHlykG2j9Zb3G15/+Q/I1AA==" />
+    </item>
+    <item>
       <title>1.36.2</title>
       <pubDate>Mon, 09 Nov 2026 23:23:53 -0800</pubDate>
       <sparkle:version>601</sparkle:version>
