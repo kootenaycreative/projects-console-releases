@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.36.6</title>
+      <pubDate>Tue, 10 Nov 2026 22:33:59 -0800</pubDate>
+      <sparkle:version>618</sparkle:version>
+      <sparkle:shortVersionString>1.36.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;Turning on Schedule no longer turns on Shot List with it, including in a Type's starting modes.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.36.6/Projects-Console-1.36.6.zip" length="42204791" type="application/octet-stream" sparkle:edSignature="bj6kf1KxU0wNiqGRD5aY71mCjnR+PaOoTppWhp0ZXlvUw6ipjpftU2g679+k/OsF68114sHVKoHtHUPGm1TnBw==" />
+    </item>
+    <item>
       <title>1.36.5</title>
       <pubDate>Tue, 10 Nov 2026 21:48:19 -0800</pubDate>
       <sparkle:version>615</sparkle:version>
