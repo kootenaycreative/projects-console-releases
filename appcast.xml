@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.36.5</title>
+      <pubDate>Tue, 10 Nov 2026 21:48:19 -0800</pubDate>
+      <sparkle:version>615</sparkle:version>
+      <sparkle:shortVersionString>1.36.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;Wrap, Turn Off, Rename and Archive save to the project record; Notion only follows.&lt;/li&gt;&lt;li&gt;If the server can't be reached, a change says it wasn't saved instead of quietly going to Notion alone.&lt;/li&gt;&lt;li&gt;"Keep Notion's" is gone: the record always stands.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.36.5/Projects-Console-1.36.5.zip" length="42205541" type="application/octet-stream" sparkle:edSignature="Z4uGjtozHh/491mADJ1oJUrr29gfxpzGhjpKzVyRiAm0yM8wV73ywMWqLcHZd97jwxMtb89iWrRgjZSKJermDQ==" />
+    </item>
+    <item>
       <title>1.36.4</title>
       <pubDate>Tue, 10 Nov 2026 12:09:56 -0800</pubDate>
       <sparkle:version>610</sparkle:version>
