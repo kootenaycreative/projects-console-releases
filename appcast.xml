@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.37.0</title>
+      <pubDate>Wed, 11 Nov 2026 16:00:54 -0800</pubDate>
+      <sparkle:version>636</sparkle:version>
+      <sparkle:shortVersionString>1.37.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;Money is a board now: each invoice is a card moving from Worked to To Send, Waiting and Paid. Late counts from the due date. Paid means the money is in YNAB.&lt;/li&gt;&lt;li&gt;A card stuck between two places has a dashed outline: work not billed, paid in Collective but not in YNAB, or in YNAB but still open in Collective.&lt;/li&gt;&lt;li&gt;Click a card to see its trail through the Job Log, Collective and YNAB, with the one thing to do next and Ask Claude.&lt;/li&gt;&lt;li&gt;The Money sidebar lists each client and contractor with what's owed. Click one to see only theirs. When each source was last checked sits at the bottom.&lt;/li&gt;&lt;li&gt;Contractor invoices show the KOOT invoice they were likely billed on and what you kept.&lt;/li&gt;&lt;li&gt;The Money tab's number counts only what needs you.&lt;/li&gt;&lt;li&gt;Quick Open looks inside a project: Tab into it to jump to shots, scenes and pages. Projects wear their own icon and colour there.&lt;/li&gt;&lt;li&gt;Showcase stills are made as soon as Resolve exports them.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.37.0/Projects-Console-1.37.0.zip" length="42256529" type="application/octet-stream" sparkle:edSignature="o+bAy4a7iMaPBUyTOiuibMlfgodHjPXdWwJ/dsxhx0LuHLagD732cge+u2FYyuaHL8Rb6BbabkD3/D5xkw7rBg==" />
+    </item>
+    <item>
       <title>1.36.6</title>
       <pubDate>Tue, 10 Nov 2026 22:33:59 -0800</pubDate>
       <sparkle:version>618</sparkle:version>
