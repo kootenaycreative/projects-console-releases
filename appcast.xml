@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.37.1</title>
+      <pubDate>Fri, 13 Nov 2026 14:18:45 -0800</pubDate>
+      <sparkle:version>642</sparkle:version>
+      <sparkle:shortVersionString>1.37.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;The phone can now see the Money board: lanes, worked rows, contractor links, sources and the Invoice Watcher, plus every invoice a lane names. Link works from the phone.&lt;/li&gt;&lt;li&gt;Each shoot day carries its scenes in running order, which are ticked as shot, and where it is, for the phone's Shoot Focus widget.&lt;/li&gt;&lt;li&gt;Resizing the window no longer lags behind the mouse.&lt;/li&gt;&lt;li&gt;The agent list shows each agent's real schedule (DRX Cleaner, TV Watch and Drive Unsticker no longer say "on demand").&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.37.1/Projects-Console-1.37.1.zip" length="42260461" type="application/octet-stream" sparkle:edSignature="uRXpkci0bUya83uLCq9CJ/pc/0Syx/ld4T24WO4Y3faFngTMTORg9YsJmGC8Ivelh6QWLmQ3DgEAJP88isDxBg==" />
+    </item>
+    <item>
       <title>1.37.0</title>
       <pubDate>Wed, 11 Nov 2026 16:00:54 -0800</pubDate>
       <sparkle:version>636</sparkle:version>
