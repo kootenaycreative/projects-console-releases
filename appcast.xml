@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.38.0</title>
+      <pubDate>Sat, 14 Nov 2026 06:17:41 -0800</pubDate>
+      <sparkle:version>677</sparkle:version>
+      <sparkle:shortVersionString>1.38.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;One Needs You bell at the top right opens one list over any screen. The red numbers on Drives, Agents and Money are gone. Each card has one button, and Later brings it back tomorrow.&lt;/li&gt;&lt;li&gt;The Portal tab asks one question per page: Just Me, Crew or Anyone. Each crew member gets their own link, with no sign-in. Add to Portal starts as Just Me.&lt;/li&gt;&lt;li&gt;Every screen uses one set of buttons, rows, header rows and empty screens, with one text size and spacing throughout.&lt;/li&gt;&lt;li&gt;Undo instead of "Are you sure?" where it can be undone.&lt;/li&gt;&lt;li&gt;One word for each thing: Project, Crew, Files, Studio, Portal, Category, Needs You.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.38.0/Projects-Console-1.38.0.zip" length="42296391" type="application/octet-stream" sparkle:edSignature="NHWYDKunPLiG2ZNxuFVfBO4PTbbW6igx/CsBK+5tutJjFhtt7+1lwP+8/8MafzAgHbwY761pYQl1S2uGo1n7Cg==" />
+    </item>
+    <item>
       <title>1.37.1</title>
       <pubDate>Fri, 13 Nov 2026 14:18:45 -0800</pubDate>
       <sparkle:version>642</sparkle:version>
