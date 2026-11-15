@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.39.0</title>
+      <pubDate>Sat, 14 Nov 2026 23:44:08 -0800</pubDate>
+      <sparkle:version>709</sparkle:version>
+      <sparkle:shortVersionString>1.39.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;Projects Console is now Project Console.&lt;/li&gt;&lt;li&gt;The Portal tab is one list by category with Who Sees It: Only You, Crew or Anyone. The portal's sidebar builds itself for whoever opens it.&lt;/li&gt;&lt;li&gt;Every screen uses the same buttons, header rows and empty screens.&lt;/li&gt;&lt;li&gt;A project's stage reads Completed, with Released as a mark inside it.&lt;/li&gt;&lt;li&gt;The Needs You payment card shows who to pay and through which service.&lt;/li&gt;&lt;li&gt;Money: This Year shows every invoice and payout of the year, and a contractor's job says whose it was.&lt;/li&gt;&lt;li&gt;A portal page whose Studio mode is off no longer shows anywhere.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.39.0/Project-Console-1.39.0.zip" length="42303224" type="application/octet-stream" sparkle:edSignature="RX3qrxQnfFkOADHmKtL/cf+zXGlCaxEh1B9YbKP3GUHEERG41PoZLLsVZcE/ImkXj90M5qwgQMl5DWMsq84PCA==" />
+    </item>
+    <item>
       <title>1.38.0</title>
       <pubDate>Sat, 14 Nov 2026 06:17:41 -0800</pubDate>
       <sparkle:version>677</sparkle:version>
