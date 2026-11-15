@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.40.0</title>
+      <pubDate>Sun, 15 Nov 2026 03:49:24 -0800</pubDate>
+      <sparkle:version>713</sparkle:version>
+      <sparkle:shortVersionString>1.40.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;A Needs You card that only this Mac can answer has one button on the phone, Log In on Mac or Open on Mac, and the Mac picks it up.&lt;/li&gt;&lt;li&gt;Try Again on the phone retries a stopped Mac job, the same as the button here.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.40.0/Project-Console-1.40.0.zip" length="42303002" type="application/octet-stream" sparkle:edSignature="4NE0FX1hyiR45q3ayn++R82hsm1qV2HLIpdtvis2XyflMiG7/x//vxdIeHDcFG6MTT1pDMIC+290ZpbtlEsaDg==" />
+    </item>
+    <item>
       <title>1.39.0</title>
       <pubDate>Sat, 14 Nov 2026 23:44:08 -0800</pubDate>
       <sparkle:version>709</sparkle:version>
