@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.40.1</title>
+      <pubDate>Sun, 15 Nov 2026 09:59:35 -0800</pubDate>
+      <sparkle:version>715</sparkle:version>
+      <sparkle:shortVersionString>1.40.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;On the laptop, lists open at once: the Library, shelf, sharing and portal pages show what was last seen and update quietly when the server answers.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.40.1/Project-Console-1.40.1.zip" length="42309947" type="application/octet-stream" sparkle:edSignature="ZjyAOT6UWXWI0+UAuyLb3hdGdBBBFQI2QLicCqn46qjUNLbhpcRmqrpKnRh9hzxQZhAmr+dkujY59eRb5DNvAw==" />
+    </item>
+    <item>
       <title>1.40.0</title>
       <pubDate>Sun, 15 Nov 2026 03:49:24 -0800</pubDate>
       <sparkle:version>713</sparkle:version>
