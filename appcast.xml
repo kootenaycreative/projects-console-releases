@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.42.0</title>
+      <pubDate>Sun, 15 Nov 2026 18:26:58 -0800</pubDate>
+      <sparkle:version>734</sparkle:version>
+      <sparkle:shortVersionString>1.42.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;Choosing Dailies works like choosing Showcase stills: Dailies Stills or Other Folder…, per shoot. Your picks are still copied into that shoot's selects folder; the folder you choose is only read.&lt;/li&gt;&lt;li&gt;An empty Stills or Dailies block is one line and Choose….&lt;/li&gt;&lt;li&gt;Dailies stills can no longer be starred by mistake.&lt;/li&gt;&lt;li&gt;Stills and Dailies say their counts the same way.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.42.0/Project-Console-1.42.0.zip" length="42328399" type="application/octet-stream" sparkle:edSignature="L+bOUJRYHclFDSf/SWi7YE1CX/kxs15ptzm3c2g2NBg+TQh21yIJJH/Xtb791WKfgu2qn/pF/duZQUU7fRUTCw==" />
+    </item>
+    <item>
       <title>1.41.1</title>
       <pubDate>Sun, 15 Nov 2026 17:52:55 -0800</pubDate>
       <sparkle:version>729</sparkle:version>
