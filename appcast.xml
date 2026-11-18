@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.44.0</title>
+      <pubDate>Wed, 18 Nov 2026 11:45:40 -0800</pubDate>
+      <sparkle:version>742</sparkle:version>
+      <sparkle:shortVersionString>1.44.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;The Camera Spec Sheet has a Files section: attach any document (a rental house quote, a camera report). Each is copied into the project's Drive folder (2-logistics/camera-spec) and opens from the sheet. Remove moves the copy to z-archive.&lt;/li&gt;&lt;li&gt;Files show on the portal's camera page too, once Drive has the copy.&lt;/li&gt;&lt;li&gt;Filters and modifiers follow the library's sets, as lenses already do.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.44.0/Project-Console-1.44.0.zip" length="42335439" type="application/octet-stream" sparkle:edSignature="bsCg0ocCJYzShNZP7HfRC+Av3u7+z2kX2X1DfyNbYdg9XFALYjUIMThVN1ByzpmqNKyVWYB89mnAT9F1UtanCA==" />
+    </item>
+    <item>
       <title>1.43.0</title>
       <pubDate>Wed, 18 Nov 2026 11:18:27 -0800</pubDate>
       <sparkle:version>739</sparkle:version>
