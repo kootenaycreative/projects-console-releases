@@ -5,6 +5,15 @@
     <description>Projects, drives and agents.</description>
     <language>en</language>
     <item>
+      <title>1.43.0</title>
+      <pubDate>Wed, 18 Nov 2026 11:18:27 -0800</pubDate>
+      <sparkle:version>739</sparkle:version>
+      <sparkle:shortVersionString>1.43.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;ul&gt;&lt;li&gt;The gear library is live: renaming, editing, moving or removing an unused item shows at once on every screen.&lt;/li&gt;&lt;li&gt;A LUT on the spec sheet can be edited in place (Edit… in its menu): change its link, name or label.&lt;/li&gt;&lt;li&gt;A lens, filter or modifier's set now follows the library, not an old copy saved on the sheet.&lt;/li&gt;&lt;li&gt;Dailies show only once a project is marked Post, and on a Completed project with no final showcase yet.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycreative/projects-console-releases/releases/download/v1.43.0/Project-Console-1.43.0.zip" length="42332545" type="application/octet-stream" sparkle:edSignature="TMaVz5bzqPUsH3TiYkMkQ/0K+Qo1rkK0E2o+J+W1O7u7iniaq51t8iZdlV0xHdVEf5IoV//lvKNi4K7gR8V2CQ==" />
+    </item>
+    <item>
       <title>1.42.0</title>
       <pubDate>Sun, 15 Nov 2026 18:26:58 -0800</pubDate>
       <sparkle:version>734</sparkle:version>
